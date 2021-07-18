@@ -2,6 +2,12 @@
   padding-top: 4rem;
   background-color: grey;
 }
+#about {
+  background: rgb(51, 50, 50);
+}
+#contact {
+  background: rgb(51, 50, 50);
+}
 
 #galery {
   background-color: grey;
